@@ -1,0 +1,7 @@
+C:\Users\kotap\OneDrive\Desktop\simpli learn Assignments\D8-Assignment\D8-Assignment\bin\Debug\D8-Assignment.exe.config
+C:\Users\kotap\OneDrive\Desktop\simpli learn Assignments\D8-Assignment\D8-Assignment\bin\Debug\D8-Assignment.exe
+C:\Users\kotap\OneDrive\Desktop\simpli learn Assignments\D8-Assignment\D8-Assignment\bin\Debug\D8-Assignment.pdb
+C:\Users\kotap\OneDrive\Desktop\simpli learn Assignments\D8-Assignment\D8-Assignment\obj\Debug\D8-Assignment.csproj.AssemblyReference.cache
+C:\Users\kotap\OneDrive\Desktop\simpli learn Assignments\D8-Assignment\D8-Assignment\obj\Debug\D8-Assignment.csproj.CoreCompileInputs.cache
+C:\Users\kotap\OneDrive\Desktop\simpli learn Assignments\D8-Assignment\D8-Assignment\obj\Debug\D8-Assignment.exe
+C:\Users\kotap\OneDrive\Desktop\simpli learn Assignments\D8-Assignment\D8-Assignment\obj\Debug\D8-Assignment.pdb
